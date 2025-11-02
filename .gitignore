@@ -1,0 +1,6 @@
+*.env
+*.gihub
+docker-compose.yml
+Dockerfile
+tmp/
+docs/
